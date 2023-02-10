@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Srijan-1-3
 - 👀 I’m interested in Coding and project management.
-- 🌱 I’m currently learning Machine Learning and Internet of Things.
+- 🌱 I’m currently learning Web Dev.
 - 📫 How to reach me srijanmohan1@gmail.com
 
 <!---
