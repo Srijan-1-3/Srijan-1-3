@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srijan</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srijan-1-3&label=Profile%20views&color=0e75b6&style=flat" alt="srijan-1-3" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=srijan-1-3&theme=gruvbox&label=Profile%20views&color=0e75b6&style=flat" alt="srijan-1-3" /> </p>
 
 - 🔭 I’m interested in **Data Science and Project Management**
 
