@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srijan</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srijan-1-3&theme=gruvbox&label=Profile%20views&color=0e75b6&style=flat" alt="srijan-1-3" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=srijan-1-3&label=Profile%20views&color=0e75b6&style=flat" alt="srijan-1-3" /> </p>
 
 - 🔭 I’m interested in **Data Science and Project Management**
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/srijan mohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srijan mohan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/srijanmohan13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Srijan Mohan" height="30" width="40" /></a>
 <a href="https://instagram.com/srijan.13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srijan.13" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sm2550" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sm2550" height="30" width="40" /></a>
 </p>
