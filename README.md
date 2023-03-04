@@ -21,5 +21,4 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" id="gitimg" title="Git" **alt="Git" width="40" height="40"/>
   
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srijan-1-3)](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Srijan-1-3&theme=dark&border_radius=4.9&background=000000&ring=EB851E)](https://git.io/streak-stats)
