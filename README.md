@@ -27,3 +27,5 @@ You can click the Preview link to take a look at your changes.
 <h2> Github Stats </h2>
 
 [![Github Streak](https://github-readme-streak-stats.herokuapp.com?user=Srijan-1-3&theme=dark&border_radius=4.9&background=000000&ring=EB851E)](https://git.io/streak-stats)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srijan-1-3&theme=radical)
