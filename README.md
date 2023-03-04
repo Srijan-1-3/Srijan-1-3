@@ -19,5 +19,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srijan-1-3&show_icons=true&locale=en&layout=compact" alt="srijan-1-3" /></p>
 <hr> <h2> Github Stats </h2>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srijan-1-3&show_icons=true&locale=en" alt="srijan-1-3" /></p>
-<hr>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srijan-1-3&" alt="srijan-1-3" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srijan-1-3&theme=gruvbox" alt="srijan-1-3" /></p>
