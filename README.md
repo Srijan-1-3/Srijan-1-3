@@ -8,6 +8,7 @@ Srijan-1-3/Srijan-1-3 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <hr>
+<h2> Languages </h2>
 <div>
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; -->
@@ -23,5 +24,5 @@ You can click the Preview link to take a look at your changes.
   
 </div>
 <hr>
-
+<h2> Github Stats </h2>
 [![Github Streak](https://github-readme-streak-stats.herokuapp.com?user=Srijan-1-3&theme=dark&border_radius=4.9&background=000000&ring=EB851E)](https://git.io/streak-stats)
