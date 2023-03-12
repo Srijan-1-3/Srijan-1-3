@@ -20,3 +20,8 @@
 <hr> <h2> Github Stats </h2>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srijan-1-3&theme=gruvbox&show_icons=true&locale=en" alt="srijan-1-3" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srijan-1-3&theme=gruvbox" alt="srijan-1-3" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Srijan-1-3&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
