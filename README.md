@@ -4,7 +4,6 @@
 
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"> -->
 
-```php
 
 <h1 align="center">Hi 👋, I'm Srijan</h1>
 <h3 align="center">SQL Programmer, Project Management, BTech CSE, Cloud Computing, Web Developer Enthusiast, Data Visualization</h3>
