@@ -1,3 +1,11 @@
+# <p align="center">Hello, World!<img src="https://c.tenor.com/EBmx3jdTXH0AAAAi/smiley-emoji.gif" width="35"> I'm Srijan <img src="https://c.tenor.com/hdKETn79a68AAAAj/pacman.gif" width="40"></p>
+
+<p  align="center" ><img src="https://qrangers.com/wp-content/uploads/2021/07/Banner-Introduction-to-Coding.png"/></p>
+
+<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"> -->
+
+```php
+
 <h1 align="center">Hi 👋, I'm Srijan</h1>
 <h3 align="center">SQL Programmer, Project Management, BTech CSE, Cloud Computing, Web Developer Enthusiast, Data Visualization</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srijan-1-3&label=Profile%20views&color=0e75b6&style=flat" alt="srijan-1-3" /> </p>
