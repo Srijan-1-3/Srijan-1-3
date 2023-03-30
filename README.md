@@ -9,7 +9,7 @@
 
 - 🔭 I’m interested in **Data Science and Project Management**
 
-- 🌱 I’m currently learning **Web Dev**
+- 🌱 I’m currently learning **Web Dev and Data Visualization**
 
 - 📫 How to reach me **srijanmohan1@gmail.com**
 
