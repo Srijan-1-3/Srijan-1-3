@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Web Dev and Data Visualization**
 
-- 📫 How to reach me **srijanmohan1@gmail.com**
+- 📫 How to reach me  **srijanmohan1@gmail.com**
 
 - 👨‍💻 All of my Data Visualization samples are available at [https://public.tableau.com/app/profile/srijan.mohan](https://public.tableau.com/app/profile/srijan.mohan)
 
