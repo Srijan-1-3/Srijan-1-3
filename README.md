@@ -1,4 +1,4 @@
-# <p align="center">Hello World!!<img src="https://c.tenor.com/EBmx3jdTXH0AAAAi/smiley-emoji.gif" width="35"> I'm Srijan <img src="https://c.tenor.com/hdKETn79a68AAAAj/pacman.gif" width="40"></p>
+# <p align="center">Hello World!<img src="https://c.tenor.com/EBmx3jdTXH0AAAAi/smiley-emoji.gif" width="35"> I'm Srijan <img src="https://c.tenor.com/hdKETn79a68AAAAj/pacman.gif" width="40"></p>
 
 
 <h3 align="center">SQL Programmer, Project Management, BTech CSE, Cloud Computing, Web Developer Enthusiast, Data Visualization</h3>
