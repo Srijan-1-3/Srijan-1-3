@@ -31,7 +31,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srijan-1-3&theme=gruvbox&show_icons=true&locale=en" alt="srijan-1-3" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srijan-1-3&theme=gruvbox" alt="srijan-1-3" /></p>
 
-![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Srijan-1-3&theme=gruvbox&area=true&border_radius=8.0)
 
 ## 🏆GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Srijan-1-3&theme=radical&no-frame=false&no-bg=true&margin-w=4)
