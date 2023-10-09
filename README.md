@@ -1,7 +1,7 @@
 # <p align="center">Hello World!!!<img src="https://c.tenor.com/EBmx3jdTXH0AAAAi/smiley-emoji.gif" width="35"> I'm Srijan <img src="https://c.tenor.com/hdKETn79a68AAAAj/pacman.gif" width="40"></p>
 
 
-<h3 align="center">SQL Programmer, Project Management, BTech CSE, Cloud Computing, Web Developer Enthusiast, Data Visualization</h3>
+<h3 align="center">SQL Programmer, Project Management, BTech CSE, Cloud Computing, Data Science Enthusiast, Data Visualization</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srijan-1-3&label=Profile%20views&color=0e75b6&style=flat" alt="srijan-1-3" /> </p>
 
 <p  align="center" ><img src="https://qrangers.com/wp-content/uploads/2021/07/Banner-Introduction-to-Coding.png"/></p>
@@ -39,5 +39,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ![aws-academy-graduate-aws-academy-cloud-architecting](https://github.com/jayeshsc/jayeshsc/assets/81688373/b21ef782-03af-47b8-8216-4903f9991ec9)
-
+![aws-academy-graduate-aws-academy-cloud-foundations (1)](https://user-images.githubusercontent.com/81688373/167295800-59708cdf-4b52-41ce-9b05-3ad9cffb240b.png)
 
