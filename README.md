@@ -39,10 +39,10 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## Badges:
-![AWS Academy Graduate (AWS Academy Cloud Architecting)](https://github.com/Srijan-1-3/Badges/blob/main/images/aws-academy-graduate-aws-academy-cloud-architecting%20(1).png)
-![AWS Academy Graduate (AWS Academy Cloud Foundations)](https://github.com/Srijan-1-3/Badges/blob/main/images/aws-academy-graduate-aws-academy-cloud-foundations.png)
-![AWS Academy Graduate (AWS Academy Machine Learning Foundations)](https://github.com/Srijan-1-3/Badges/blob/main/images/aws-academy-graduate-aws-academy-machine-learning-foundations%20(1).png)
-![Google Project Management](https://github.com/Srijan-1-3/Badges/blob/main/images/google-project-management-badge.png)
-![Google Data Analytics Certificate](https://github.com/Srijan-1-3/Badges/blob/main/images/google-data-analytics-certificate.2.png)
-![Databases and SQL for Data Science](https://github.com/Srijan-1-3/Badges/blob/main/images/databases-and-sql-for-data-science.png)
-<img src="https://github.com/Srijan-1-3/Badges/blob/main/images/google-project-management-badge.png" alt="Google Project Management" width="100" height="100"/>
+<img src="https://github.com/Srijan-1-3/Badges/blob/main/images/google-project-management-badge.png" alt="Google Project Management" width="150" height="150"/>
+<img src="https://github.com/Srijan-1-3/Badges/blob/main/images/google-data-analytics-certificate.2.png" alt="Google Data Analytics" width="150" height="150"/>
+<img src="https://github.com/Srijan-1-3/Badges/blob/main/images/databases-and-sql-for-data-science.png" alt="Databases and SQL for Data Science" width="150" height="150"/>
+<img src="https://github.com/Srijan-1-3/Badges/blob/main/images/aws-academy-graduate-aws-academy-machine-learning-foundations%20(1).png" alt="AWS Academy Machine Learning Foundations" width="150" height="150"/>
+<img src="https://github.com/Srijan-1-3/Badges/blob/main/images/aws-academy-graduate-aws-academy-cloud-foundations.png" alt="AWS Academy Cloud Foundations" width="150" height="150"/>
+<img src="(https://github.com/Srijan-1-3/Badges/blob/main/images/aws-academy-graduate-aws-academy-cloud-architecting%20(1).png" alt="AWS Academy Cloud Architecting" width="150" height="150"/>
+
