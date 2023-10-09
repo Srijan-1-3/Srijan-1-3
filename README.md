@@ -43,5 +43,7 @@
 ![AWS Academy Graduate (AWS Academy Cloud Foundations)](https://github.com/Srijan-1-3/Badges/blob/main/images/aws-academy-graduate-aws-academy-cloud-foundations.png)
 ![AWS Academy Graduate (AWS Academy Machine Learning Foundations)](https://github.com/Srijan-1-3/Badges/blob/main/images/aws-academy-graduate-aws-academy-machine-learning-foundations%20(1).png)
 ![Google Project Management](https://github.com/Srijan-1-3/Badges/blob/main/images/google-project-management-badge.png)
+![Google Data Analytics Certificate](https://github.com/Srijan-1-3/Badges/blob/main/images/google-data-analytics-certificate.2.png)
+![Databases and SQL for Data Science](https://github.com/Srijan-1-3/Badges/blob/main/images/databases-and-sql-for-data-science.png)
 
 
