@@ -45,4 +45,4 @@
 ![Google Project Management](https://github.com/Srijan-1-3/Badges/blob/main/images/google-project-management-badge.png)
 ![Google Data Analytics Certificate](https://github.com/Srijan-1-3/Badges/blob/main/images/google-data-analytics-certificate.2.png)
 ![Databases and SQL for Data Science](https://github.com/Srijan-1-3/Badges/blob/main/images/databases-and-sql-for-data-science.png)
-<img src="https://github.com/Srijan-1-3/Badges/blob/main/images/google-project-management-badge.png" alt="aws" width="40" height="40"/>
+<img src="https://github.com/Srijan-1-3/Badges/blob/main/images/google-project-management-badge.png" alt="Google Project Management" width="100" height="100"/>
