@@ -38,3 +38,7 @@
  ### ✍️Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+[![Google Project Management](https://img.shields.io/badge/Google_Project_Management-blue.svg)](https://www.coursera.org/specializations/google-project-management)
+[![Data Analytics](https://img.shields.io/badge/Data_Analytics-blue.svg)](https://www.coursera.org/specializations/data-analytics)
+
+
