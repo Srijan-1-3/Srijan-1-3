@@ -39,6 +39,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## Badges:
-![AWS Academy Graduate (AWS Academy Cloud Architecting)](https://github.com/Srijan-1-3/Badges/blob/main/images/aws-academy-graduate-aws-academy-cloud-architecting%20(1).png width="200" height="100")
-![AWS Academy Graduate (AWS Academy Cloud Foundations)](https://github.com/Srijan-1-3/Badges/blob/main/images/aws-academy-graduate-aws-academy-cloud-foundations.png width="200" height="100")
-![AWS Academy Graduate (AWS Academy Machine Learning Foundations)](https://github.com/Srijan-1-3/Badges/blob/main/images/aws-academy-graduate-aws-academy-machine-learning-foundations%20(1).png width="200" height="100")
+![AWS Academy Graduate (AWS Academy Cloud Architecting)](https://github.com/Srijan-1-3/Badges/blob/main/images/aws-academy-graduate-aws-academy-cloud-architecting%20(1).png) width="200" height="100")
+![AWS Academy Graduate (AWS Academy Cloud Foundations)](https://github.com/Srijan-1-3/Badges/blob/main/images/aws-academy-graduate-aws-academy-cloud-foundations.png) width="200" height="100")
+![AWS Academy Graduate (AWS Academy Machine Learning Foundations)](https://github.com/Srijan-1-3/Badges/blob/main/images/aws-academy-graduate-aws-academy-machine-learning-foundations%20(1).png) width="200" height="100")
