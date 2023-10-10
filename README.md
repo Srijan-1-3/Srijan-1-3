@@ -6,7 +6,7 @@
 
 <p  align="center" ><img src="https://qrangers.com/wp-content/uploads/2021/07/Banner-Introduction-to-Coding.png"/></p>
 
-<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"> -->
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300">
 
 - 🔭 I’m interested in **Data Science and Project Management**
 
