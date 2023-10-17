@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/srijanmohan13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Srijan Mohan" height="30" width="40" /></a>
 <a href="https://instagram.com/srijan.13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srijan.13" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sm2550" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sm2550" height="30" width="40" /></a>
-<a href="https://www.salesforce.com/trailblazer/srijanmohan" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg"  alt="Salesforce" width="40" height="30"/>
+<a href="https://www.salesforce.com/trailblazer/srijanmohan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg"  alt="Salesforce" width="40" height="30"/>
 
 </p>
 <hr>
